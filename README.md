@@ -1,11 +1,12 @@
 # Supply Chain Analyst
 
-#### Technical Skills: Tableau, Power BI, R, Python, SQL, SAP, Advanced Excel, Spreadsheets, MS Project, Quantitative Analysis, Microsoft 365, CPFR, Forecasting, Demand and Supply Planning, BOM, Inventory Control, Statistical Modelling
+#### Skills and Specialization: Supply Chain Planning, SAP, Six Sigma,Tableau, Power BI, Python, SQL, Advance Excel, MS Project, Microsoft Office
+
 
 ## Education
-- M.S., Supply Chain Analytics | Rutgers, The State University of New Jersey (_May 2024_)
-- PGDM, Logistics and Supply Chain Management | XLRI - Xavier School of Management (_May 2024_)
-- B.Tech, Electronics and Communication Engineering | Indian Institute of Space Science and Technology (_May 2021_)
+- M.S, Supply Chain Analytics | Rutgers, The State University of New Jersey (_May 2024_)
+- PGDM (MBA), Logistics and Supply Chain Management | XLRI Jamshedpur (_May 2024_)
+- B.Tech, Electronics and Communication Engineering | Indian Institute of Space Science and Technology, Trivandrum (_May 2021_)
 
 ## Work Experience
 **Client Project on AI Enablement in Procurement @ Rutgers Business School (_Jan 2024 - May 2024_)**
