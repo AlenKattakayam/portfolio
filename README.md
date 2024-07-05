@@ -4,9 +4,13 @@
 
 
 ## Education
-- M.S, Supply Chain Analytics | Rutgers, The State University of New Jersey (_May 2024_)
-- PGDM (MBA), Logistics and Supply Chain Management | XLRI Jamshedpur (_May 2024_)
-- B.Tech, Electronics and Communication Engineering | Indian Institute of Space Science and Technology, Trivandrum (_May 2021_)
+
+| Degree                                      | Institution                                          | Graduation Date   |
+|---------------------------------------------|------------------------------------------------------|-------------------|
+| M.S., Supply Chain Analytics                | Rutgers, The State University of New Jersey          | May 2024          |
+| PGDM (MBA), Logistics and Supply Chain Management | XLRI Jamshedpur                                      | May 2024          |
+| B.Tech, Electronics and Communication Engineering | Indian Institute of Space Science and Technology, Trivandrum | May 2021          |
+
 
 ## Work Experience
 **Client Project on AI Enablement in Procurement @ Rutgers Business School (_Jan 2024 - May 2024_)**
