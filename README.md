@@ -5,10 +5,10 @@
 
 ## Education
 
-|--------------------------------------------|------------------------------------------------------|-------------------|
-| M.S, Supply Chain Analytics                | Rutgers, The State University of New Jersey          | May 2024          |
-| MBA, Logistics and Supply Chain Management | XLRI Jamshedpur                                      | May 2024          |
-| B.S, Electronics and Communication Engineering | Indian Institute of Space Science and Technology, Trivandrum | May 2021          |
+| M.S., Supply Chain Analytics                | Rutgers, The State University of New Jersey          |
+| MBA, Logistics and Supply Chain Management  | XLRI, Jamshedpur                                      |
+| B.S., Electronics and Communication Engineering | Indian Institute of Space Science and Technology, Trivandrum |
+
 
 
 ## Work Experience
@@ -32,6 +32,7 @@
 
 ## Projects
 ### Diverse Supplier Analysis
+
 - Analysed over 900 vendor datasets using **R** and **SQL** enhancing stakeholders’ vendor selection criteria and VRM processes
 - Leveraged advanced SQL functionalities to perform data manipulation such as joins, aggregations, and subqueries
 - Designed strategic action plans and interactive Tableau dashboards to enhance procurement with diverse businesses
