@@ -15,7 +15,6 @@
 **Supply Chain Student Consultant @ Flatiron Health/Rutgers Business School (_Jan 2024 - May 2024_)**
 - Spearheaded initiative at Flatiron Health, NY to integrate AI capabilities, achieving 15% reduction in procurement cycle time
 - Designed AI-enabled systems and processes to improve and automate workflows, resulting in 30% savings in human hours
-- Collaborated with 5+ cross-functional teams to identify pain points, formulate solutions and align with industry 4.0 objectives
 
 **Supply Chain Intern @ Trident Limited (_April 2023 - Aug 2023_)**
 - Led $380,000+ Procure-to-Pay transformation project to implement new procurement platform and streamline the process
@@ -38,6 +37,7 @@
 - Designed strategic action plans and interactive Tableau dashboards to enhance procurement with diverse businesses
 
 ### Demand Planning at Blood Bank
+[Publication](https://www.canva.com/design/DAGKF2qIc1o/g8p1f3wQwcGxUDaGbLwQnQ/view?utm_content=DAGKF2qIc1o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - Developed demand forecasting model for RBC to reduce shortages and control inventory of blood, employing Moving Average, Exponential Smoothing, and ARIMA models
 - Leveraged Power Query for data cleaning and exploration, extracting actionable insights from demand data spanning 54 weeks
 - Developed a Periodic Review System for inventory planning, reducing shortages by 20% and minimizing waste by 30%
